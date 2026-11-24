@@ -1,0 +1,126 @@
+﻿Scallop_ID,Tank,Treatment,FoodAvailability,ChronicTemperature,HeatwaveExposure,Early_Mort_T-F,Date_of_Death,LT50data_FalseDeath_TD-FD,LethalTemp_C,LT50_TotalTime_min,LT50_TimeInTrial,LT50_TimeOutTrial
+25,2A,S-W-nH,satiated,warm,nonheatwave,F,9/11/21,FD,35.6,5.32,10:22 AM,3:41 PM
+28,2A,S-W-nH,satiated,warm,nonheatwave,F,9/11/21,FD,35.2,5.08,10:22 AM,3:27 PM
+58,2A,S-W-nH,satiated,warm,nonheatwave,F,9/11/21,FD,35.2,5.08,10:22 AM,3:27 PM
+105,2A,S-W-nH,satiated,warm,nonheatwave,F,9/11/21,TD,35.4,5.27,10:22 AM,3:38 PM
+111,2A,S-W-nH,satiated,warm,nonheatwave,F,9/11/21,TD,33.5,4.23,10:22 AM,2:36 PM
+121,2A,S-W-nH,satiated,warm,nonheatwave,F,9/11/21,TD,35.1,5.15,10:22 AM,3:31 PM
+136,2A,S-W-nH,satiated,warm,nonheatwave,F,9/11/21,TD,35.2,4.97,10:22 AM,3:20 PM
+1,2B,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,FD,35,6.37,11:10 AM,5:32 PM
+16,2B,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,35,6.58,11:10 AM,5:45 PM
+30,2B,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,31.9,4.87,11:10 AM,4:02 PM
+100,2B,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,FD,35.9,6.82,11:10 AM,5:59 PM
+112,2B,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,34.2,5.93,11:10 AM,5:06 PM
+116,2B,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,33.2,5.2,11:10 AM,4:22 PM
+137,2B,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,35.1,6.23,11:10 AM,5:24 PM
+14,2C,U-W-H,unsatiated,warm,heatwave,F,9/16/21,TD,35.9,4.12,8:47 AM,12:54 PM
+29,2C,U-W-H,unsatiated,warm,heatwave,F,9/16/21,TD,35.9,4.12,8:47 AM,12:54 PM
+45,2C,U-W-H,unsatiated,warm,heatwave,T,8/21/21,NA,NA,NA,8:47 AM,NA
+51,2C,U-W-H,unsatiated,warm,heatwave,F,9/16/21,FD,35.6,3.97,8:47 AM,12:45 PM
+113,2C,U-W-H,unsatiated,warm,heatwave,F,9/16/21,TD,36.2,4.28,8:47 AM,1:04 PM
+117,2C,U-W-H,unsatiated,warm,heatwave,F,9/16/21,TD,36.1,4.22,8:47 AM,1:00 PM
+123,2C,U-W-H,unsatiated,warm,heatwave,F,9/16/21,TD,34.7,3.63,8:47 AM,12:25 PM
+12,3A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,34.5,5.15,10:02 AM,3:11 PM
+26,3A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,35.1,5.3,10:02 AM,3:20 PM
+47,3A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,35.2,5.37,10:02 AM,3:24 PM
+53,3A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,35.1,5.3,10:02 AM,3:20 PM
+79,3A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,35.2,5.37,10:02 AM,3:24 PM
+118,3A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,34.7,5.23,10:02 AM,3:16 PM
+128,3A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,34.4,5,10:02 AM,3:02 PM
+37,3B,S-W-H,satiated,warm,heatwave,F,9/15/21,TD,33.2,2.5,10:15 AM,12:45 PM
+42,3B,S-W-H,satiated,warm,heatwave,F,9/15/21,TD,35,3.83,10:15 AM,2:05 PM
+66,3B,S-W-H,satiated,warm,heatwave,F,9/15/21,TD,35,3.83,10:15 AM,2:05 PM
+91,3B,S-W-H,satiated,warm,heatwave,F,9/15/21,TD,35.6,4,10:15 AM,2:15 PM
+132,3B,S-W-H,satiated,warm,heatwave,F,9/15/21,TD,35.3,3.57,10:15 AM,1:49 PM
+141,3B,S-W-H,satiated,warm,heatwave,F,9/15/21,TD,36.3,4.32,10:15 AM,2:34 PM
+60nn,3B,S-W-H,satiated,warm,heatwave,F,9/15/21,TD,36.1,4.18,10:15 AM,2:26 PM
+49,3C,S-C-H,satiated,cool,heatwave,T,9/7/21,NA,NA,NA,NA,NA
+55,3C,S-C-H,satiated,cool,heatwave,F,9/15/21,TD,35.7,4,10:15 AM,2:15 PM
+61,3C,S-C-H,satiated,cool,heatwave,F,9/15/21,TD,36.2,4.15,10:15 AM,2:24 PM
+81,3C,S-C-H,satiated,cool,heatwave,F,9/15/21,TD,35.3,3.87,10:15 AM,2:07 PM
+84,3C,S-C-H,satiated,cool,heatwave,T,9/15/21,NA,NA,NA,NA,NA
+89,3C,S-C-H,satiated,cool,heatwave,F,9/15/21,TD,35.2,2.5,10:15 AM,12:45 PM
+93,3C,S-C-H,satiated,cool,heatwave,F,9/15/21,TD,35,3.73,10:15 AM,1:59 PM
+8,4A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,33.6,5.65,11:10 AM,4:49 PM
+33,4A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,FD,34.9,6.17,11:10 AM,5:20 PM
+41,4A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,34.7,6.53,11:10 AM,5:42 PM
+106,4A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,34.6,6.37,11:10 AM,5:32 PM
+131,4A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,34.9,6.17,11:10 AM,5:20 PM
+133,4A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,34.6,6.37,11:10 AM,5:32 PM
+NN,4A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,33.6,5.65,11:10 AM,4:49 PM
+17,4B,U-W-H,unsatiated,warm,heatwave,F,9/13/21,TD,36.1,4.33,10:10 AM,2:30 PM
+24,4B,U-W-H,unsatiated,warm,heatwave,F,9/13/21,TD,35.8,4.08,10:10 AM,2:15 PM
+32,4B,U-W-H,unsatiated,warm,heatwave,F,9/13/21,FD,34.1,3.22,10:10 AM,1:23 PM
+43,4B,U-W-H,unsatiated,warm,heatwave,T,8/31/21,NA,NA,NA,NA,NA
+95,4B,U-W-H,unsatiated,warm,heatwave,F,9/13/21,TD,35.4,3.93,10:10 AM,2:06 PM
+108,4B,U-W-H,unsatiated,warm,heatwave,F,9/13/21,TD,35.8,4.08,10:10 AM,2:15 PM
+124,4B,U-W-H,unsatiated,warm,heatwave,F,9/13/21,TD,36.1,4.23,10:10 AM,2:24 PM
+4,4C,S-W-nH,satiated,warm,nonheatwave,F,9/14/21,TD,35.5,5.12,10:02 AM,3:09 PM
+5,4C,S-W-nH,satiated,warm,nonheatwave,T,9/3/21,NA,NA,NA,NA,NA
+10,4C,S-W-nH,satiated,warm,nonheatwave,F,9/14/21,TD,34.5,4.75,10:02 AM,2:47 PM
+36,4C,S-W-nH,satiated,warm,nonheatwave,F,9/14/21,FD,34.5,4.75,10:02 AM,2:47 PM
+73,4C,S-W-nH,satiated,warm,nonheatwave,F,9/14/21,TD,34.8,4.92,10:02 AM,2:57 PM
+80,4C,S-W-nH,satiated,warm,nonheatwave,F,9/14/21,TD,36.1,5.33,10:02 AM,3:22 PM
+85,4C,S-W-nH,satiated,warm,nonheatwave,F,9/14/21,TD,36.2,5.38,10:02 AM,3:25 PM
+3,5A,S-W-H,satiated,warm,heatwave,F,9/16/21,TD,35,3.8,8:47 AM,12:35 PM
+20,5A,S-W-H,satiated,warm,heatwave,F,9/16/21,TD,35.5,3.47,8:47 AM,12:15 PM
+38,5A,S-W-H,satiated,warm,heatwave,F,9/16/21,TD,35.3,3.63,8:47 AM,12:25 PM
+44,5A,S-W-H,satiated,warm,heatwave,F,9/16/21,TD,35.3,3.63,8:47 AM,12:25 PM
+103,5A,S-W-H,satiated,warm,heatwave,F,9/16/21,TD,35.3,3.63,8:47 AM,12:25 PM
+107,5A,S-W-H,satiated,warm,heatwave,F,9/16/21,TD,34.8,3.27,8:47 AM,12:03 PM
+134,5A,S-W-H,satiated,warm,heatwave,F,9/16/21,TD,35.1,3.75,8:47 AM,12:32 PM
+6,5B,S-C-H,satiated,cool,heatwave,F,9/16/21,TD,36.1,4.22,8:47 AM,1:00 PM
+27,5B,S-C-H,satiated,cool,heatwave,T,9/4/21,NA,NA,NA,NA,NA
+76,5B,S-C-H,satiated,cool,heatwave,F,9/16/21,TD,36.1,4.22,8:47 AM,1:00 PM
+92,5B,S-C-H,satiated,cool,heatwave,F,9/16/21,TD,36.1,4.13,8:47 AM,12:55 PM
+135,5B,S-C-H,satiated,cool,heatwave,F,9/16/21,FD,35.3,3.85,8:47 AM,12:38 PM
+142,5B,S-C-H,satiated,cool,heatwave,F,9/16/21,TD,35.6,3.97,8:47 AM,12:45 PM
+7,5C,U-W-nH,unsatiated,warm,nonheatwave,F,9/11/21,TD,36.2,5.43,10:22 AM,3:48 PM
+15,5C,U-W-nH,unsatiated,warm,nonheatwave,F,9/11/21,TD,33.9,4.47,10:22 AM,2:50 PM
+22,5C,U-W-nH,unsatiated,warm,nonheatwave,F,9/11/21,FD,35.8,5.38,10:22 AM,3:45 PM
+46,5C,U-W-nH,unsatiated,warm,nonheatwave,F,9/11/21,TD,36,5.4,10:22 AM,3:46 PM
+98,5C,U-W-nH,unsatiated,warm,nonheatwave,F,9/11/21,FD,35.3,5,10:22 AM,3:22 PM
+114,5C,U-W-nH,unsatiated,warm,nonheatwave,F,9/11/21,TD,35.1,5.12,10:22 AM,3:29 PM
+138,5C,U-W-nH,unsatiated,warm,nonheatwave,F,9/11/21,TD,35.7,5.35,10:22 AM,3:43 PM
+35,6A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,35.4,6.83,11:10 AM,6:00 PM
+50,6A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,FD,33.6,5.83,11:10 AM,5:00 PM
+56,6A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,34.9,6.63,11:10 AM,5:48 PM
+82,6A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,35.4,6.83,11:10 AM,6:00 PM
+87,6A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,34.2,6.05,11:10 AM,5:13 PM
+94,6A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,FD,34.5,6.37,11:10 AM,5:32 PM
+140,6A,S-C-nH,satiated,cool,nonheatwave,F,9/12/21,TD,34.6,6.13,11:10 AM,5:18 PM
+9,6B,U-W-H,unsatiated,warm,heatwave,T,9/4/21,NA,NA,NA,NA,NA
+39,6B,U-W-H,unsatiated,warm,heatwave,F,9/15/21,TD,36,4.33,10:15 AM,2:35 PM
+63,6B,U-W-H,unsatiated,warm,heatwave,F,9/15/21,TD,35.5,4,10:15 AM,2:15 PM
+77,6B,U-W-H,unsatiated,warm,heatwave,F,9/15/21,TD,36,4.2,10:15 AM,2:27 PM
+83,6B,U-W-H,unsatiated,warm,heatwave,F,9/15/21,TD,36,4.33,10:15 AM,2:35 PM
+96,6B,U-W-H,unsatiated,warm,heatwave,F,9/15/21,TD,36,4.33,10:15 AM,2:35 PM
+127,6B,U-W-H,unsatiated,warm,heatwave,F,9/15/21,TD,36,4.2,10:15 AM,2:27 PM
+40,6C,S-W-nH,satiated,warm,nonheatwave,T,8/22/21,NA,NA,NA,NA,NA
+59,6C,S-W-nH,satiated,warm,nonheatwave,F,9/11/21,FD,35.9,5.42,10:22 AM,3:47 PM
+64,6C,S-W-nH,satiated,warm,nonheatwave,T,8/22/21,NA,NA,NA,NA,NA
+78,6C,S-W-nH,satiated,warm,nonheatwave,F,9/11/21,TD,34,4.65,10:22 AM,3:01 PM
+97,6C,S-W-nH,satiated,warm,nonheatwave,T,8/24/21,NA,NA,NA,NA,NA
+99,6C,S-W-nH,satiated,warm,nonheatwave,F,9/11/21,FD,35.1,5.13,10:22 AM,3:30 PM
+130,6C,S-W-nH,satiated,warm,nonheatwave,F,9/11/21,FD,35.8,5.53,10:22 AM,3:54 PM
+21,7A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,35.7,5.27,10:02 AM,3:18 PM
+31,7A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,35.7,5.27,10:02 AM,3:18 PM
+54,7A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,36,5.33,10:02 AM,3:22 PM
+65,7A,U-W-nH,unsatiated,warm,nonheatwave,T,9/14/21,NA,NA,NA,NA,NA
+101,7A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,35.6,5.2,10:02 AM,3:14 PM
+109,7A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,35.9,5.68,10:02 AM,3:43 PM
+139,7A,U-W-nH,unsatiated,warm,nonheatwave,F,9/14/21,TD,35.9,5.68,10:02 AM,3:43 PM
+23,7B,S-W-H,satiated,warm,NA,T,8/21/21,NA,NA,NA,NA,NA
+34,7B,S-W-H,satiated,warm,NA,T,8/21/21,NA,NA,NA,NA,NA
+57,7B,S-W-H,satiated,warm,NA,T,8/22/21,NA,NA,NA,NA,NA
+74,7B,S-W-H,satiated,warm,NA,T,8/21/21,NA,NA,NA,NA,NA
+119,7B,S-W-H,satiated,warm,NA,T,8/21/21,NA,NA,NA,NA,NA
+122,7B,S-W-H,satiated,warm,NA,T,8/22/21,NA,NA,NA,NA,NA
+125,7B,S-W-H,satiated,warm,NA,T,8/21/21,NA,NA,NA,NA,NA
+19,7C,S-C-H,satiated,cool,heatwave,F,9/13/21,TD,35.1,3.83,10:10 AM,2:00 PM
+48,7C,S-C-H,satiated,cool,heatwave,F,9/13/21,TD,35.5,3.97,10:10 AM,2:08 PM
+62,7C,S-C-H,satiated,cool,heatwave,F,9/13/21,TD,36.1,4.45,10:10 AM,2:37 PM
+102,7C,S-C-H,satiated,cool,heatwave,F,9/13/21,TD,35.9,4.08,10:10 AM,2:15 PM
+104,7C,S-C-H,satiated,cool,heatwave,F,9/13/21,TD,35.1,3.83,10:10 AM,2:00 PM
+110,7C,S-C-H,satiated,cool,heatwave,F,9/13/21,TD,35.9,4.08,10:10 AM,2:15 PM
+120,7C,S-C-H,satiated,cool,heatwave,F,9/13/21,TD,35.7,4.33,10:10 AM,2:30 PM
